@@ -45,3 +45,4 @@ int* twoSums(int *nums, int numsSize, int target, int *returnSize){
 
 
 //method2: Using hashtable
+//need to study the HashTable structure ADT for C
